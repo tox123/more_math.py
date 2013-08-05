@@ -2,6 +2,7 @@ from cmath import *
 from random import *
 from sys import *
 from os import *
+import math as regular
 
 def cbrt(number, min_of_test_range, max_of_range):   #guesses and checks for a cube root
     n_1 = number
