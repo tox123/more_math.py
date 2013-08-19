@@ -6,7 +6,7 @@ or division of strings (divstr). Uses most of the pre existing modules like rand
 regular math).
 
 ##Origins##
-While in late teens he created this as soon as he started learning Python.
+made by me for but now i share!!!
 
 ###see also###
 ************
@@ -14,4 +14,4 @@ While in late teens he created this as soon as he started learning Python.
 
 ####my page####
 
-####this code####
+####the code####
