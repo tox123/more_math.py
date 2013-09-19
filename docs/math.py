@@ -2,7 +2,7 @@ from cmath import *
 from random import *
 from sys import *
 from os import *
-import math as regular
+from math import *
 
 def cbrt(number, min_of_test_range, max_of_range):   #guesses and checks for a cube root
     n_1 = number
@@ -232,4 +232,4 @@ def fact(n):
     return r
 
 def info():
-    return ('made by Scott Whalen Blair on 7/10/2013 with Python 3.3.2 (v3.3.2:d047928ae3f6, May 16 2013, 00:03:43) [MSC v.1600 32 bit (Intel)]')
+    return ('made by Scott Whalen Blair on 7/10/2013 with Python 3.3.2 (v3.3.2:d047928ae3f6, May 16 2013, 00:03:43) [MSC v.1600 32 bit (Intel)] more math v1.2')
