@@ -5,8 +5,6 @@ An extension of the math module in Python 3. Adds many more functions such as su
 or division of strings (divstr). Uses most of the pre existing modules like random and cmath (because of cmath it does not use
 regular math).
 
-##Origins##
-made by me for but now i share!!!
 
 ###see also###
 ************
